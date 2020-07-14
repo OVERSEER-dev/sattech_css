@@ -1,3 +1,6 @@
 .login {
-background: #aaa
+background: #aaa;
+}
+html, body {
+  background: #000;
 }
